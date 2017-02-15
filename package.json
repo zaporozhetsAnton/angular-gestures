@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zaporozhetsAnton/bower-angular-gestures.git"
+    "url": "git+https://github.com/zaporozhetsAnton/angular-gestures.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zaporozhetsAnton/bower-angular-gestures/issues"
+    "url": "https://github.com/zaporozhetsAnton/angular-gestures/issues"
   },
   "dependencies": {
     "hammerjs": "2.0.8"
   }
-  "homepage": "https://github.com/zaporozhetsAnton/bower-angular-gestures#readme"
+  "homepage": "https://github.com/zaporozhetsAnton/angular-gestures#readme"
 }
