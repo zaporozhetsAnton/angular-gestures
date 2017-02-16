@@ -76,7 +76,7 @@ angular.module('angularGesturesDemoApp', ['angular-gestures', 'ngRoute'])
   });
 ```
 
-## Bower
-If you want to use angular-momentum-scroll with bower, add the following dependency to your component.json
+## Install through npm
+If you want ….
 
-`"angular-gestures": "latest"`
+npm install —save https://github.com/zaporozhetsAnton/angular-gestures
