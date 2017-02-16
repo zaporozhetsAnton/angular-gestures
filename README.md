@@ -78,4 +78,5 @@ angular.module('angularGesturesDemoApp', ['angular-gestures', 'ngRoute'])
 
 ## Install through npm
 If you want to use angular-gestures with npm:
-npm install --save https://github.com/zaporozhetsAnton/angular-gestures
+
+    npm install --save https://github.com/zaporozhetsAnton/angular-gestures
